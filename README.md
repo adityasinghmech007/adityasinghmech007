@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aditya Singh.
-- 👀 I’m interested in mechanical design and mechatronics 
-- 🌱 I’m currently doing mechanical engineering from PEC Chandigarh .
-- 💞️ I’m looking to collaborate on Mechatronics Project 
+- 👀 I’m interested in Robotics 
+- 💞️ I’m looking to collaborate on Robotics Project 
 
 
 <!---
