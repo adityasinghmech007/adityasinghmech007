@@ -84,8 +84,8 @@ I’m always interested in collaborating on:
 
 ## 📫 Connect With Me
 
-* GitHub: [Your GitHub Link]
-* LinkedIn: [Your LinkedIn Link]
+* GitHub:  https://github.com/adityasinghmech007
+* LinkedIn: https://www.linkedin.com/in/adityasingh2024/
 
 Thanks for visiting my profile! 🚀
 
