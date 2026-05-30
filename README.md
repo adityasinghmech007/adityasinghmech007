@@ -11,7 +11,7 @@ I enjoy developing systems that combine hardware and software — from motion co
 ## 🔧 Domains I Work In
 
 * 🤖 Robotics & Automation
-* ⚡ Embedded Systems (STM32 / ESP32)
+* ⚡ Embedded Systems (STM32 )
 * 🧠 ROS2 & Robot Simulation
 * 🔌 PCB Design & Electronics
 * 🛠️ CAD Design & 3D Printing
@@ -28,7 +28,6 @@ I enjoy developing systems that combine hardware and software — from motion co
 * Python
 * Embedded C
 * STM32 HAL
-* ESP-IDF / Arduino
 
 ### Robotics & Simulation
 
@@ -43,8 +42,6 @@ I enjoy developing systems that combine hardware and software — from motion co
 * SolidWorks
 * KiCad / PCB Design
 * 3D Printing
-* CNC & Rapid Prototyping
-
 ---
 
 ## 📌 Projects
